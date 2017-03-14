@@ -1,0 +1,27 @@
+/*
+ * Animal.cpp
+ *
+ *  Created on: Mar 14, 2017
+ *      Author: luan.ha
+ */
+
+#include "Animal.h"
+
+Animal::Animal() {
+	// TODO Auto-generated constructor stub
+
+}
+
+string Animal::getName() {
+	return name;
+}
+
+void Animal::setName(string n) {
+	name = n;
+}
+
+
+Animal::~Animal() {
+	// TODO Auto-generated destructor stub
+}
+
