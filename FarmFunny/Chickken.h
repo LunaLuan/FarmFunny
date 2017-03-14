@@ -13,6 +13,8 @@
 class Chickken: public HappyAnimal {
 public:
 	Chickken();
+	
+	
 	virtual ~Chickken();
 };
 

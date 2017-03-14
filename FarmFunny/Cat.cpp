@@ -11,7 +11,8 @@ Cat::Cat() {
 	// TODO Auto-generated constructor stub
 
 }
-
+void Cat::sound(){return "Meow";
+}
 Cat::~Cat() {
 	// TODO Auto-generated destructor stub
 }
