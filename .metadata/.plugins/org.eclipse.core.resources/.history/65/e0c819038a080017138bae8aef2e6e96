@@ -14,9 +14,6 @@ using namespace std;
 class Animal {
 public:
 	Animal();
-
-
-
 	virtual ~Animal();
 
 protected:
