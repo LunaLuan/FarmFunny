@@ -2,6 +2,7 @@
  * main.cpp
  *
  *  Created on: Mar 14, 2017
+<<<<<<< .merge_file_a07904
  *      Author: anhtuan1.nguyen
  */
 
@@ -13,3 +14,4 @@ int main(){
 	cout<<"Hello";
 	return 0;
 }
+
