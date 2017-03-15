@@ -21,21 +21,10 @@ AnimalManager::~AnimalManager() {
 void AnimalManager::buyAnimal(string type, string name) {
 	AnimalFactory factory;
 	Animal *animal = factory.createAnimal(type);
-	animal->setName(name);
-
-	animals.push_back(animal);
-	resourecListener->onBuyAnimal(animal->getPriceBuy());
 
 }
 
 void AnimalManager::sellAnimal(string type, string name) {
-	for (int i = animals.begin(); i!= animals.end();i++){
-		if(animals[i]->getName() == name) {
-
-		}
-	}
-
-
 }
 
 void AnimalManager::sellAnimal(string type) {

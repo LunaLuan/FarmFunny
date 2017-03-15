@@ -20,8 +20,6 @@ int main(){
 
 	animalManager.setResourceListener(&resourceManager);
 
-	animalManager.buyAnimal("Dog", "Tuan Anh");
-
 
 	cout<<"Hello";
 	return 0;

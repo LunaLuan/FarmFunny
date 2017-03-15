@@ -8,9 +8,6 @@
 #ifndef RESUORCEMANAGER_H_
 #define RESUORCEMANAGER_H_
 
-#include<iostream>
-using namespace std;
-
 class ResuorceManager {
 public:
 	ResuorceManager();

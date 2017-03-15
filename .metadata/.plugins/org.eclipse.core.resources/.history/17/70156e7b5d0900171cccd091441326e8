@@ -31,11 +31,9 @@ void AnimalManager::buyAnimal(string type, string name) {
 void AnimalManager::sellAnimal(string type, string name) {
 	for (int i = animals.begin(); i!= animals.end();i++){
 		if(animals[i]->getName() == name) {
-
+			animals.erase(remove(animals.begin(), animals.end(), ))
 		}
 	}
-
-
 }
 
 void AnimalManager::sellAnimal(string type) {

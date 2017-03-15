@@ -5,11 +5,9 @@
  *      Author: luan.ha
  */
 
-
+#include "Animal.h"
 #ifndef ANIMALMANAGER_H_
 #define ANIMALMANAGER_H_
-
-#include "Animal.h"
 using namespace std;
 
 class AnimalManager {
@@ -22,7 +20,6 @@ public:
 	virtual ~AnimalManager();
 protected:
 	ResuorceManager *resourecListener;
-	vector<class Animal*> animals;
 };
 
 #endif /* ANIMALMANAGER_H_ */

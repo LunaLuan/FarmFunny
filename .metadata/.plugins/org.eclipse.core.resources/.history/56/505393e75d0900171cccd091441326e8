@@ -18,9 +18,7 @@ int main(){
 	AnimalManager animalManager;
 	ResuorceManager resourceManager;
 
-	animalManager.setResourceListener(&resourceManager);
-
-	animalManager.buyAnimal("Dog", "Tuan Anh");
+	animalManager.setResourceListener(resourceManager);
 
 
 	cout<<"Hello";

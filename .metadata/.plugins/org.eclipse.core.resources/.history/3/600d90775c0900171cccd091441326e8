@@ -22,7 +22,7 @@ public:
 	virtual ~AnimalManager();
 protected:
 	ResuorceManager *resourecListener;
-	vector<class Animal*> animals;
+	vector<class Animal*> animals
 };
 
 #endif /* ANIMALMANAGER_H_ */

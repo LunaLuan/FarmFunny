@@ -29,13 +29,8 @@ void AnimalManager::buyAnimal(string type, string name) {
 }
 
 void AnimalManager::sellAnimal(string type, string name) {
-	for (int i = animals.begin(); i!= animals.end();i++){
-		if(animals[i]->getName() == name) {
-
-		}
-	}
-
-
+	AnimalFactory factory;
+	Animal *animal = factory.
 }
 
 void AnimalManager::sellAnimal(string type) {

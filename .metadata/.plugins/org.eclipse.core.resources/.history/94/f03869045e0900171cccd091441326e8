@@ -20,7 +20,7 @@ int main(){
 
 	animalManager.setResourceListener(&resourceManager);
 
-	animalManager.buyAnimal("Dog", "Tuan Anh");
+	animalManager.buyAnimal("Dog", "")
 
 
 	cout<<"Hello";
