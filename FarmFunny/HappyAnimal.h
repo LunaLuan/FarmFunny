@@ -13,7 +13,14 @@
 class HappyAnimal: public Animal {
 public:
 	HappyAnimal();
+	
+	int getHappyIndex();
+	void setHappyIndex(int i);
+	
 	virtual ~HappyAnimal();
+	
+protected :
+	int happyIndex;
 };
 
 #endif /* HAPPYANIMAL_H_ */

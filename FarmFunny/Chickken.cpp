@@ -11,6 +11,9 @@ Chickken::Chickken() {
 	// TODO Auto-generated constructor stub
 
 }
+void Chickken::sound(){cout<<"Bawk";
+}
+
 
 Chickken::~Chickken() {
 	// TODO Auto-generated destructor stub
