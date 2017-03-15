@@ -1,0 +1,20 @@
+
+#include<iostream>
+using namespace std;
+
+
+int main(){
+	cout<<"Hello";
+	cout<<"?";
+	return 0;
+}
+
+ * main.cpp
+ *
+ *  Created on: Mar 15, 2017
+ *      Author: luan.ha
+ */
+
+
+
+

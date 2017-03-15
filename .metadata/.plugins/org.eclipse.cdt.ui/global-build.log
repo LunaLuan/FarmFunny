@@ -19,3 +19,25 @@ g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Pig.o "..\\Pig.cpp"
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o IntelligenceAnimal.o "..\\IntelligenceAnimal.cpp" 
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Chickken.o "..\\Chickken.cpp" 
 g++ -o FarmFunny.exe Animal.o Cat.o Chickken.o Dog.o HappyAnimal.o IntelligenceAnimal.o Pig.o main.o 
+Info: Nothing to build for FarmFunny
+16:42:39 **** Rebuild of configuration Debug for project CPP ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.cpp" 
+..\main.cpp:2:1: warning: "/*" within comment [-Wcomment]
+ /*
+ ^
+..\main.cpp:20:8: error: expected constructor, destructor, or type conversion before '.' token
+  * main.cpp
+        ^
+16:42:57 **** Incremental Build of configuration Debug for project CPP ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.cpp" 
+g++ -o CPP.exe main.o 
+Info: Nothing to build for FarmFunny
+Info: Nothing to build for CPP
+Info: Nothing to build for CPP
+Info: Nothing to build for FarmFunny
+Info: Nothing to build for FarmFunny
+Info: Nothing to build for FarmFunny
+Info: Nothing to build for CPP
+Info: Nothing to build for FarmFunny
