@@ -1,0 +1,20 @@
+/*
+ * EmotionAnimal.cpp
+ *
+ *  Created on: Mar 15, 2017
+ *      Author: luan.ha
+ */
+
+#include "EmotionAnimal.h"
+
+EmotionAnimal::EmotionAnimal() {
+	// TODO Auto-generated constructor stub
+	setHappyIndex(7);
+}
+
+
+
+EmotionAnimal::~EmotionAnimal() {
+	// TODO Auto-generated destructor stub
+}
+

@@ -8,12 +8,44 @@
 #include "Cat.h"
 
 Cat::Cat() {
-	// TODO Auto-generated constructor stub
+	setPriceSell(4);
+	setPriceBuy(7);
 
 }
-void Cat::sound(){return "Meow";
+
+
+
+void Cat::eat() {
+
 }
+
+void Cat::goOut() {
+
+}
+
+void Cat::goBack() {
+
+}
+
+void Cat::die() {
+	sound();sound();sound();
+}
+
+int Cat::reproduce() {
+	return 1;
+}
+
+
 Cat::~Cat() {
 	// TODO Auto-generated destructor stub
+}
+
+
+
+void Cat::listen() {
+}
+
+void Cat::printSound() {
+	cout << "Meow..." <<endl;
 }
 

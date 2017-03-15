@@ -1,0 +1,17 @@
+/*
+ * ResuorceManager.h
+ *
+ *  Created on: Mar 15, 2017
+ *      Author: luan.ha
+ */
+
+#ifndef RESUORCEMANAGER_H_
+#define RESUORCEMANAGER_H_
+
+class ResuorceManager {
+public:
+	ResuorceManager();
+	virtual ~ResuorceManager();
+};
+
+#endif /* RESUORCEMANAGER_H_ */

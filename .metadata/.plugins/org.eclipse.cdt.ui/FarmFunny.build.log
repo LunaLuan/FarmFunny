@@ -1,13 +1,1 @@
-15:00:57 **** Incremental Build of configuration Debug for project FarmFunny ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Pig.o "..\\Pig.cpp" 
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Chickken.o "..\\Chickken.cpp" 
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Cat.o "..\\Cat.cpp" 
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Dog.o "..\\Dog.cpp" 
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o HappyAnimal.o "..\\HappyAnimal.cpp" 
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o IntelligenceAnimal.o "..\\IntelligenceAnimal.cpp" 
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Animal.o "..\\Animal.cpp" 
-g++ -o FarmFunny.exe Animal.o Cat.o Chickken.o Dog.o HappyAnimal.o IntelligenceAnimal.o Pig.o main.o 
-
-15:01:01 Build Finished (took 3s.564ms)
-
+Info: Nothing to build for FarmFunny

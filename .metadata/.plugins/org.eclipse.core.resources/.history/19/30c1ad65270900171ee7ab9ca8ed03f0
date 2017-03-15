@@ -1,0 +1,21 @@
+/*
+ * EmotionAnimal.h
+ *
+ *  Created on: Mar 15, 2017
+ *      Author: luan.ha
+ */
+
+#ifndef EMOTIONANIMAL_H_
+#define EMOTIONANIMAL_H_
+
+class EmotionAnimal {
+public:
+	EmotionAnimal();
+
+
+
+
+	virtual ~EmotionAnimal();
+};
+
+#endif /* EMOTIONANIMAL_H_ */

@@ -1,0 +1,30 @@
+/*
+ * Pig.h
+ *
+ *  Created on: Mar 14, 2017
+ *      Author: luan.ha
+ */
+
+#ifndef PIG_H_
+#define PIG_H_
+
+#include "Animal.h"
+#include <iostream>
+using namespace std;
+
+class Pig: public Animal {
+public:
+	Pig();
+
+	virtual void sound();
+	virtual void eat();
+	virtual void goOut();
+	virtual void goBack();
+	virtual void die();
+	virtual void reproduce();
+
+
+	virtual ~Pig();
+};
+
+#endif /* PIG_H_ */

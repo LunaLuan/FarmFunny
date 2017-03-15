@@ -1,0 +1,41 @@
+/*
+ * Chickken.cpp
+ *
+ *  Created on: Mar 14, 2017
+ *      Author: luan.ha
+ */
+
+#include "Chickken.h"
+
+Chickken::Chickken() {
+	// TODO Auto-generated constructor stub
+
+}
+void Chickken::sound() {
+	cout<<"Bawk...";
+}
+
+void Chickken::eat() {
+
+}
+
+void Chickken::goOut() {
+
+}
+
+void Chickken::goBack() {
+
+}
+
+void Chickken::die() {
+
+}
+
+void Chickken::reproduce() {
+
+}
+
+Chickken::~Chickken() {
+	// TODO Auto-generated destructor stub
+}
+

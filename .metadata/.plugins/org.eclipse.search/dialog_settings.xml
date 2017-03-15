@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SearchDialog.ScopePart">
+		<item value="0" key="scope"/>
+	</section>
+	<section name="">
+		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
+	</section>
+	<section name="TextSearchPage">
+		<item value="1" key="HISTORY_SIZE"/>
+		<item value="false" key="CASE_SENSITIVE"/>
+		<item value="false" key="REG_EX_SEARCH"/>
+		<item value="false" key="WHOLE_WORD"/>
+		<item value="false" key="SEARCH_DERIVED"/>
+		<item value="false" key="SEARCH_IN_BINARIES"/>
+		<section name="EXTENSIONS">
+			<item value="*.C, *.S, *.a, *.ad, *.adoc, *.am, *.ant, *.asciidoc, *.asm, *.bmp, *.c, *.c++, *.cc, *.confluence, *.cpp, *.cxx, *.dll, *.doc, *.docx, *.dylib, *.e4xmi, *.ecore, *.elf, *.emof, *.ent, *.exe, *.exsd, *.gcda, *.gcno, *.gif, *.h, *.hh, *.hpp, *.htm, *.html, *.hxx, *.ico, *.inc, *.jpeg, *.jpg, *.lib, *.log, *.macrodef, *.markdown, *.md, *.mdtext, *.mediawiki, *.mk, *.o, *.obj, *.out, *.patch, *.png, *.prefs, *.properties, *.repo, *.setup, *.shtml, *.so, *.spec, *.spec2, *.supp, *.textile, *.tracwiki, *.twiki, *.txt, *.workingsets, *.wsdl, *.xmi, *.xml, *.xsd, *.xsl, *.xslt" key="0"/>
+			<item value="*" key="1"/>
+		</section>
+		<section name="HISTORY0">
+			<item value="true" key="ignoreCase"/>
+			<item value="0" key="scope"/>
+			<item value="false" key="isWholeWord"/>
+			<item value="Chickken" key="textPattern"/>
+			<item value="false" key="isRegExSearch"/>
+			<list key="fileNamePatterns">
+				<item value="*.png"/>
+				<item value="*.confluence"/>
+				<item value="*.gcno"/>
+				<item value="*.html"/>
+				<item value="*.mediawiki"/>
+				<item value="*.tracwiki"/>
+				<item value="*.S"/>
+				<item value="*.mdtext"/>
+				<item value="*.shtml"/>
+				<item value="*.doc"/>
+				<item value="*.workingsets"/>
+				<item value="*.spec"/>
+				<item value="*.patch"/>
+				<item value="*.adoc"/>
+				<item value="*.a"/>
+				<item value="*.c"/>
+				<item value="*.emof"/>
+				<item value="*.macrodef"/>
+				<item value="*.markdown"/>
+				<item value="*.h"/>
+				<item value="*.bmp"/>
+				<item value="*.lib"/>
+				<item value="*.exe"/>
+				<item value="*.o"/>
+				<item value="*.so"/>
+				<item value="*.xml"/>
+				<item value="*.xmi"/>
+				<item value="*.cc"/>
+				<item value="*.ico"/>
+				<item value="*.cpp"/>
+				<item value="*.cxx"/>
+				<item value="*.textile"/>
+				<item value="*.elf"/>
+				<item value="*.twiki"/>
+				<item value="*.ent"/>
+				<item value="*.ecore"/>
+				<item value="*.hpp"/>
+				<item value="*.hxx"/>
+				<item value="*.wsdl"/>
+				<item value="*.ant"/>
+				<item value="*.dll"/>
+				<item value="*.md"/>
+				<item value="*.prefs"/>
+				<item value="*.jpeg"/>
+				<item value="*.txt"/>
+				<item value="*.supp"/>
+				<item value="*.asm"/>
+				<item value="*.obj"/>
+				<item value="*.hh"/>
+				<item value="*.c++"/>
+				<item value="*.spec2"/>
+				<item value="*.repo"/>
+				<item value="*.am"/>
+				<item value="*.xsd"/>
+				<item value="*.docx"/>
+				<item value="*.gif"/>
+				<item value="*.log"/>
+				<item value="*.exsd"/>
+				<item value="*.xsl"/>
+				<item value="*.xslt"/>
+				<item value="*.e4xmi"/>
+				<item value="*.out"/>
+				<item value="*.mk"/>
+				<item value="*.setup"/>
+				<item value="*.dylib"/>
+				<item value="*.ad"/>
+				<item value="*.asciidoc"/>
+				<item value="*.gcda"/>
+				<item value="*.htm"/>
+				<item value="*.jpg"/>
+				<item value="*.inc"/>
+				<item value="*.properties"/>
+				<item value="*.C"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+	</section>
+	<section name="org.eclipse.search.text.FileSearchResultPage">
+		<item value="1000" key="org.eclipse.search.resultpage.limit"/>
+	</section>
+	<section name="Search">
+		<list key="Search.processedPageIds">
+			<item value="org.eclipse.rse.internal.files.ui.search.searchPage"/>
+			<item value="org.eclipse.search.internal.ui.text.TextSearchPage"/>
+			<item value="org.eclipse.mylyn.tasks.ui.search.page"/>
+			<item value="org.eclipse.cdt.ui.pdomSearchPage"/>
+			<item value="org.eclipse.egit.ui.commitSearchPage"/>
+		</list>
+		<list key="Search.enabledPageIds">
+			<item value="org.eclipse.rse.internal.files.ui.search.searchPage"/>
+			<item value="org.eclipse.search.internal.ui.text.TextSearchPage"/>
+			<item value="org.eclipse.mylyn.tasks.ui.search.page"/>
+			<item value="org.eclipse.cdt.ui.pdomSearchPage"/>
+			<item value="org.eclipse.egit.ui.commitSearchPage"/>
+		</list>
+	</section>
+	<section name="ReplaceDialog2">
+		<list key="replace_with">
+			<item value="Chicken"/>
+		</list>
+	</section>
+	<section name="SearchDialog">
+		<item value="org.eclipse.search.internal.ui.text.TextSearchPage" key="PREVIOUS_PAGE"/>
+	</section>
+	<section name="DialogBounds_SearchDialog">
+		<item value="651" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="554" key="DIALOG_HEIGHT"/>
+		<item value="644" key="DIALOG_X_ORIGIN"/>
+		<item value="156" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

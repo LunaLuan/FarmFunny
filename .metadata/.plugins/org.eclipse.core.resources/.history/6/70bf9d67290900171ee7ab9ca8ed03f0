@@ -1,0 +1,27 @@
+/*
+ * Cat.h
+ *
+ *  Created on: Mar 14, 2017
+ *      Author: luan.ha
+ */
+
+#ifndef CAT_H_
+#define CAT_H_
+
+#include "EmotionAnimal.h"
+
+class Cat: public EmotionAnimal {
+public:
+	Cat();
+
+	virtual void sound();
+	virtual void eat();
+	virtual void goOut();
+	virtual void goBack();
+	virtual void die();
+	virtual void reproduce();
+
+	virtual ~Cat();
+};
+
+#endif /* CAT_H_ */

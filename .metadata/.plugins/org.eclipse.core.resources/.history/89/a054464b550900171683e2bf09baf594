@@ -1,0 +1,34 @@
+/*
+ * Chickken.h
+ *
+ *  Created on: Mar 14, 2017
+ *      Author: luan.ha
+ */
+
+#ifndef CHICKKEN_H_
+#define CHICKKEN_H_
+
+
+#include "EmotionAnimal.h"
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+
+class Chickken: public EmotionAnimal {
+public:
+	Chickken();
+	
+	virtual void eat();
+	virtual void goOut();
+	virtual void goBack();
+	virtual void die();
+	virtual int reproduce();
+
+
+	virtual ~Chickken();
+
+protected:
+	virtual void printSound();
+};
+
+#endif /* CHICKKEN_H_ */

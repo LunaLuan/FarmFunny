@@ -1,0 +1,29 @@
+/*
+ * ResuorceManager.h
+ *
+ *  Created on: Mar 15, 2017
+ *      Author: luan.ha
+ */
+
+#ifndef RESUORCEMANAGER_H_
+#define RESUORCEMANAGER_H_
+
+class ResuorceManager {
+public:
+	ResuorceManager();
+	int food,money;
+	void buyFood(int m){
+		food=food+m*10;
+		money=money-m;
+	}
+	virtual ~ResuorceManager();
+
+protected:
+
+
+
+};
+
+
+
+#endif /* RESUORCEMANAGER_H_ */

@@ -1,0 +1,24 @@
+/*
+ * ResuorceManager.cpp
+ *
+ *  Created on: Mar 15, 2017
+ *      Author: luan.ha
+ */
+
+#include "ResuorceManager.h"
+
+ResuorceManager::ResuorceManager() {
+	// TODO Auto-generated constructor stub
+
+}
+
+void ResuorceManager::buyFood(int m) {
+	food=food+m*10;
+			money=money-m;
+}
+
+
+ResuorceManager::~ResuorceManager() {
+	// TODO Auto-generated destructor stub
+}
+

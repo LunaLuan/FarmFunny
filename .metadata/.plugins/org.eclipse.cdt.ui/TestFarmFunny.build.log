@@ -1,0 +1,16 @@
+15:02:46 **** Rebuild of configuration Debug for project TestFarmFunny ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "TestAnimalManager\\AnimalManager.o" "..\\TestAnimalManager\\AnimalManager.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "TestAnimalManager\\ChickenManager.o" "..\\TestAnimalManager\\ChickenManager.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "TestAnimalManager\\CatManager.o" "..\\TestAnimalManager\\CatManager.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "TestAnimalManager\\SoundSubject.o" "..\\TestAnimalManager\\SoundSubject.cpp" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o ".metadata\\.plugins\\org.eclipse.cdt.managedbuilder.core\\spec.o" "..\\.metadata\\.plugins\\org.eclipse.cdt.managedbuilder.core\\spec.c" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "TestAnimalManager\\TimeManager.o" "..\\TestAnimalManager\\TimeManager.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "TestAnimalManager\\main.o" "..\\TestAnimalManager\\main.cpp" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o ".metadata\\.plugins\\org.eclipse.cdt.make.core\\specs.o" "..\\.metadata\\.plugins\\org.eclipse.cdt.make.core\\specs.c" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "TestAnimalManager\\OnSoundListener.o" "..\\TestAnimalManager\\OnSoundListener.cpp" 
+g++ -o TestFarmFunny.exe ".metadata\\.plugins\\org.eclipse.cdt.make.core\\specs.o" ".metadata\\.plugins\\org.eclipse.cdt.make.core\\specs.o" ".metadata\\.plugins\\org.eclipse.cdt.managedbuilder.core\\spec.o" "TestAnimalManager\\AnimalManager.o" "TestAnimalManager\\CatManager.o" "TestAnimalManager\\ChickenManager.o" "TestAnimalManager\\OnSoundListener.o" "TestAnimalManager\\SoundSubject.o" "TestAnimalManager\\TimeManager.o" "TestAnimalManager\\main.o" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o ".metadata\\.plugins\\org.eclipse.cdt.make.core\\specs.o" "..\\.metadata\\.plugins\\org.eclipse.cdt.make.core\\specs.cpp" 
+
+15:02:51 Build Finished (took 4s.460ms)
+

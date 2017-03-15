@@ -1,0 +1,48 @@
+/*
+ * Dog.cpp
+ *
+ *  Created on: Mar 14, 2017
+ *      Author: luan.ha
+ */
+
+#include "Dog.h"
+
+Dog::Dog() {
+	// TODO Auto-generated constructor stub
+
+}
+
+void Dog::train() {
+
+}
+
+void Dog::sound() {
+	cout << "Woof...";
+}
+
+void Dog::eat() {
+
+}
+
+void Dog::goOut() {
+
+}
+
+void Dog::goBack() {
+
+}
+
+void Dog::die() {
+	sound();
+	soun();
+
+}
+
+int Dog::reproduce() {
+	return 1;
+}
+
+Dog::~Dog() {
+	// TODO Auto-generated destructor stub
+}
+

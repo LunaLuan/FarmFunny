@@ -8,9 +8,10 @@
 #include "Animal.h"
 
 Animal::Animal() {
-	// TODO Auto-generated constructor stub
 
 }
+
+
 
 string Animal::getName() {
 	return name;
@@ -36,14 +37,46 @@ void Animal::setWeight(float w) {
 	weight = w;
 }
 
-int Animal::getPrice() {
-	return price;
+
+
+
+void Animal::sound() {
+	printSound();
+	notifyListener();
 }
 
-void Animal::setPrice(int p) {
-	price = p;
+
+void Animal::addListener(Animal *a) {
+	listeners.push_back(a);
 }
 
+void Animal::removeListener(Animal *a) {
+	int size = listeners.size();
+
+}
+
+int Animal::getPriceSell() {
+	return priceSell;
+}
+
+void Animal::setPriceSell(int p) {
+	priceSell = p;
+}
+
+int Animal::getPriceBuy() {
+	return priceBuy;
+}
+
+void Animal::setPriceBuy(int p) {
+	priceBuy = p;
+}
+
+void Animal::notifyListener() {
+	int size = listeners.size();
+	for(int i = 0 ; i < size ; i++) {
+		listeners[i]->listen();
+	}
+}
 
 Animal::~Animal() {
 	// TODO Auto-generated destructor stub

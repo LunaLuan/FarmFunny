@@ -1,0 +1,37 @@
+/*
+ * Pig.cpp
+ *
+ *  Created on: Mar 14, 2017
+ *      Author: luan.ha
+ */
+
+#include "Pig.h"
+
+Pig::Pig() {
+	// TODO Auto-generated constructor stub
+
+}
+
+void Pig::eat() {
+
+}
+
+
+void Pig::goOut() {
+
+}
+
+void Pig::die() {
+	sound();
+
+}
+
+int Pig::reproduce() {
+	int r = rand() % 2;
+	return r + 1;
+}
+
+Pig::~Pig() {
+	// TODO Auto-generated destructor stub
+}
+

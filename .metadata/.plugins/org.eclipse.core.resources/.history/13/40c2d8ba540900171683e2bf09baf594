@@ -1,0 +1,18 @@
+/*
+ * AnimalFactory.h
+ *
+ *  Created on: Mar 15, 2017
+ *      Author: luan.ha
+ */
+
+#ifndef ANIMALFACTORY_H_
+#define ANIMALFACTORY_H_
+
+class AnimalFactory {
+public:
+	AnimalFactory();
+
+	virtual ~AnimalFactory();
+};
+
+#endif /* ANIMALFACTORY_H_ */

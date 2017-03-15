@@ -1,0 +1,21 @@
+/*
+ * AnimalFactory.cpp
+ *
+ *  Created on: Mar 15, 2017
+ *      Author: luan.ha
+ */
+
+#include "AnimalFactory.h"
+
+AnimalFactory::AnimalFactory() {
+	// TODO Auto-generated constructor stub
+
+}
+
+Animal* AnimalFactory::createAnimal(string type) {
+}
+
+AnimalFactory::~AnimalFactory() {
+	// TODO Auto-generated destructor stub
+}
+

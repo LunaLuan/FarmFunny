@@ -52,3 +52,215 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-15 09:25:33.745 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-03-15 09:26:07.274
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-15 09:26:14.151
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\luan.ha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 09:27:01.519
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 09:27:06.784
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:05:37.199
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:05:48.098
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:06:20.896
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:06:51.822
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:09:47.216
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:09:50.169
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-03-15 10:16:21.913
+!MESSAGE Indexed 'TestFarmFunny' (7 sources, 116 headers) in 3.51 sec: 10,464 declarations; 17,696 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-03-15 10:19:24.474
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-03-15 10:19:24.480
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2017-03-15 10:19:32.037 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -data file:/D:/FarmFunny/ -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-15 10:19:43.122
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\luan.ha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:25:31.220
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:25:36.713
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+!SESSION 2017-03-15 10:25:51.512 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-15 10:26:03.102
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\luan.ha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:34:52.388
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:49:23.260
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:49:33.976
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:49:38.694
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+!SESSION 2017-03-15 10:50:03.613 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -data file:/D:/FarmFunny/ -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-15 10:50:23.820
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\luan.ha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:54:40.632
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:55:02.593
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:55:06.243
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:55:10.044
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-03-15 10:55:12.111
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-03-15 10:55:12.113
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:55:12.197
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 10:55:22.284
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.ui 4 0 2017-03-15 11:04:23.592
+!MESSAGE Error in CDT UI during reconcile
+!STACK 1
+C Model Exception: C Model Status [Element IntelligenceAnimal.h does not exist.]
+	at org.eclipse.cdt.internal.core.model.CElement.newNotPresentException(CElement.java:484)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.makeConsistent(TranslationUnit.java:573)
+	at org.eclipse.cdt.internal.core.model.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:62)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:341)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:607)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:635)
+	at org.eclipse.cdt.internal.core.model.WorkingCopy.reconcile(WorkingCopy.java:362)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.reconcile(CReconcilingStrategy.java:78)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.reconcile(CReconcilingStrategy.java:63)
+	at org.eclipse.cdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:87)
+	at org.eclipse.cdt.internal.ui.text.CCompositeReconcilingStrategy.reconcile(CCompositeReconcilingStrategy.java:90)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:73)
+	at org.eclipse.cdt.internal.ui.text.CReconciler.process(CReconciler.java:349)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.cdt.core 4 969 2017-03-15 11:04:23.597
+!MESSAGE Element IntelligenceAnimal.h does not exist.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 11:34:26.512
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+!SESSION 2017-03-15 11:44:34.829 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-15 11:51:13.907
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\luan.ha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-15 12:49:58.262 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-15 12:50:08.777
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\luan.ha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 13:48:40.808
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+!SESSION 2017-03-15 14:19:46.928 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-15 14:20:02.750
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\luan.ha'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 15:01:47.026
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 15:02:36.845
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 2 0 2017-03-15 15:02:46.511
+!MESSAGE Build Artifact is missing in project 'FarmFunny' configuration 'Default'

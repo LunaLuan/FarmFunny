@@ -8,11 +8,45 @@
 #include "Pig.h"
 
 Pig::Pig() {
-	// TODO Auto-generated constructor stub
+	setPriceBuy(6);
+}
 
+void Pig::setPriceSell() {
+	priceSell = weight ;
+}
+
+void Pig::eat() {
+
+}
+
+
+void Pig::goOut() {
+
+}
+
+void Pig::die() {
+	sound();
+	sound();
+	sound();
+}
+
+int Pig::reproduce() {
+	int r = rand() % 2;
+	return r + 1;
 }
 
 Pig::~Pig() {
 	// TODO Auto-generated destructor stub
+}
+
+void Pig::goBack() {
+}
+
+void Pig::listen() {
+
+}
+
+void Pig::printSound() {
+	cout << "...Oink!" <<endl;
 }
 

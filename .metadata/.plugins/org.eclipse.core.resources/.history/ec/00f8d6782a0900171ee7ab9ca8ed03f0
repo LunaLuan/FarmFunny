@@ -1,0 +1,30 @@
+/*
+ * Dog.h
+ *
+ *  Created on: Mar 14, 2017
+ *      Author: luan.ha
+ */
+
+#ifndef DOG_H_
+#define DOG_H_
+
+#include "HappyAnimal.h"
+#include "IntelligenceAnimal.h"
+
+class Dog: public IntelligenceAnimal, public HappyAnimal {
+public:
+	Dog();
+
+	virtual void train
+
+	virtual void sound();
+	virtual void eat();
+	virtual void goOut();
+	virtual void goBack();
+	virtual void die();
+	virtual void reproduce();
+
+	virtual ~Dog();
+};
+
+#endif /* DOG_H_ */
